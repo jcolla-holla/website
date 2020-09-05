@@ -1,28 +1,5 @@
-# Website
+This is a website I built with several others in Spring 2020 for [Covid Watch](http://covidwatch.org/)
 
-## THIS REPO IS DEPREECATED AND NO LONGER ACTIVE
+Note that this website is NOT up to date marketing for Covid Watch and does not speak for that organization.  This is merely a demonstration of a website I built for my own personal portfolio (and others who were involved if they want!).
 
-![Build](https://github.com/covidwatchorg/website/workflows/Build/badge.svg)
-![Deploy](https://github.com/covidwatchorg/website/workflows/Deploy/badge.svg)
-
-The Covid-Watch website: https://covidwatch.org/
-
-## Build Setup
-
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-
-## If you have questions:
-
-Contact any of the following people (on Covid Watch Slack may be best, see our [volunteer page](https://www.covid-watch.org/join) for how to join):
-
-- Tessa Alexian - https://github.com/alexanian
-- Jesse Colligan - https://github.com/jcolla-holla
-- Colby Morrison - https://github.com/colbymorrison
+Original repo is [here](https://github.com/covidwatchorg/website)
