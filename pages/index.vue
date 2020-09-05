@@ -1,5 +1,12 @@
 <template>
   <v-container>
+    <v-alert
+      :value="true"
+      type="info"
+      dismissible
+    >
+      <strong>Note this site is for demonstration only and does not represent Covid Watch.</strong>  This is a previous version of the site at <a href="https://www.covidwatch.org">www.covidwatch.org</a>
+    </v-alert>  
     <v-row id="home">
       <v-col>
         <v-row id="hero">
